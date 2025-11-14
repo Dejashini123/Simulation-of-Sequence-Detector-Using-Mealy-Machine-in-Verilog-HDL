@@ -169,6 +169,11 @@ endmodule
 <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/3c1cb67a-036c-4ece-8e6e-d8be2b0cd8ea" />
 
 ---
+
+
+
+
+
 ## Result
 
 The Mealy Machine Sequence Detector for the bit pattern "11011" was successfully designed and simulated using Verilog HDL.
